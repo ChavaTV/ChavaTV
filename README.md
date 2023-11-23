@@ -1,11 +1,17 @@
 ### 
-Hello 👋 my name is Salvador, I like to program the things that I think or come to my mind. This year (2023) I have dedicated myself to programming in the robotics area, especially with python and drones, although I also have experience in web development.
+Hello 👋,
 
-- 🔭 I’m currently working on ... PYTHON
-- 🌱 I’m currently learning ... WEB DEVELOPMENT
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My name is Salvador, and I am passionate about transforming ideas into functional code. During the current year (2023), I have focused my efforts in the robotics world, specializing in Python programming and practical applications in drones (UAV). I also have experience in web development. My goal is to continue contributing to technological advancement, applying my skills to solve innovative challenges.
+
+Sincerely yours,
+
+Salvador
+
+- 🔭 I am currently working on ...               PYTHON
+- 🌱 I am currently learning ...                 WEB DEVELOPMENT
+- 👯 I am looking to collaborate in ...          High impact projects
+- 🤔 I am looking for help with ...              New skills and knowledge development.
+- 💬 Ask me about ...                            anything
+- 📫 How to contact me: ...                      as.torresvillegas@ugto.mx
+- 😄 Pronouns: ...                               Chava
+- ⚡ Fun fact: ...                               I like exercise and books
