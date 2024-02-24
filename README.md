@@ -12,7 +12,7 @@ Salvador
 - 👯 I am looking to collaborate in ...          High impact projects
 - 🤔 I am looking for help with ...              New skills and knowledge development.
 - 💬 Ask me about ...                            anything
-- 📫 How to contact me: ...                      as.torresvillegas@ugto.mx
+- 📫 How to contact me: ...                      tova_salvador@hotmail.com
 - 😄 Pronouns: ...                               Chava
 - ⚡ Fun fact: ...                               I like exercise and books
 
